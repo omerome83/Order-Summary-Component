@@ -74,5 +74,5 @@ My next step is to continue to improve on my CSS skills and then learn more Java
 
 ## Author
 
-- Website - [Romel Williams](https://omerome83.github.io)
+- Website - [Romel Williams](https://github.com/omerome83)
 - Frontend Mentor - [@omerome83](https://www.frontendmentor.io/profile/omerome83
