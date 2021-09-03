@@ -41,40 +41,6 @@ h1 {
   height: 70px;
 }
 
-/* .subscription-type {
-  color: hsl(223, 47%, 23%);
-  font-weight: 700;
-  text-align: left;
-  font-size: 0.9rem;
-  margin: 0 auto;
-  padding-top: 20px;
-  background-color: red;
-  width: 50%;
-  float: left;
-}
-
-.subscription-price {
-  color: darkgray;
-  text-align: left;
-  font-size: 0.9rem;
-  padding: 0;
-  margin: 0 auto;
-  background-color: orange;
-  float: left;
-  width: 50%;
-}
-
-.subscription-change {
-  color: hsl(245, 75%, 52%);
-  text-decoration: underline;
-  font-weight: 700;
-  font-size: 0.85rem;
-  width: 25%;
-  background-color: green;
-  float: right;
-  display: block;
-} */
-
 .subscription-type {
   font-weight: 700;
   text-align: left;
@@ -167,9 +133,9 @@ h1 {
   body {
     background-image: url("../images/pattern-background-desktop.svg");
     background-repeat: repeat-x;
-    background-color: hsl(225, 100%, 94%);
+    /* background-color: hsl(225, 100%, 94%);
     margin: 0 auto;
     font-family: "Red-Hat-Display", sans-serif;
-    text-align: center;
+    text-align: center; */
   }
 }
