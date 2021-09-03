@@ -70,7 +70,8 @@ My next step is to continue to improve on my CSS skills and then learn more Java
 ### Useful resources
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/) - One of the best resources for anything web development, if not the best as they are extremely well documented..
-- [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Dr. Yu is an amazing instructor who step-by-step taught each lesson in a way that was easy to understand and still not feeling at all boring. -[W3Schools](https://www.w3schools.com/) - Another very good resource for web development and even has an online HTML testing tool to try things out.
+- [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Dr. Yu is an amazing instructor who step-by-step taught each lesson in a way that was easy to understand and still not feeling at all boring.
+- [W3Schools](https://www.w3schools.com/) - Another very good resource for web development and even has an online HTML testing tool to try things out.
 
 ## Author
 
