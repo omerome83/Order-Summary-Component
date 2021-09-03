@@ -1,0 +1,175 @@
+body {
+  background-image: url("../images/pattern-background-desktop.svg");
+  background-repeat: repeat-x;
+  background-color: hsl(225, 100%, 94%);
+  margin: 0 auto 0 auto;
+  font-family: "Red-Hat-Display", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: hsl(223, 47%, 23%);
+  margin: 40px auto 0 auto;
+  font-size: 1.3rem;
+  font-weight: 900;
+}
+
+.music-image-container {
+  border-top-left-radius: 1.25rem;
+  border-top-right-radius: 1.25rem;
+}
+
+.order-summary-container {
+  width: 450px;
+  margin: 100px auto 20px auto;
+  border-radius: 1.25rem;
+  height: 585px;
+  background-color: hsl(225, 100%, 98%);
+}
+
+.summary-content {
+  color: hsl(224, 23%, 55%);
+  font-weight: 500;
+  margin: 0 50px 0 50px;
+  line-height: 1.1;
+}
+
+.subscription-plan-container {
+  background-color: hsl(225, 100%, 94%, 0.25);
+  margin: 0 50px 0 50px;
+  border-radius: 10px;
+  height: 70px;
+}
+
+/* .subscription-type {
+  color: hsl(223, 47%, 23%);
+  font-weight: 700;
+  text-align: left;
+  font-size: 0.9rem;
+  margin: 0 auto;
+  padding-top: 20px;
+  background-color: red;
+  width: 50%;
+  float: left;
+}
+
+.subscription-price {
+  color: darkgray;
+  text-align: left;
+  font-size: 0.9rem;
+  padding: 0;
+  margin: 0 auto;
+  background-color: orange;
+  float: left;
+  width: 50%;
+}
+
+.subscription-change {
+  color: hsl(245, 75%, 52%);
+  text-decoration: underline;
+  font-weight: 700;
+  font-size: 0.85rem;
+  width: 25%;
+  background-color: green;
+  float: right;
+  display: block;
+} */
+
+.subscription-type {
+  font-weight: 700;
+  text-align: left;
+  font-size: 0.9rem;
+  margin: 0;
+  padding-top: 15px;
+}
+
+.subscription-price {
+  color: darkgray;
+  font-size: 0.9rem;
+  text-align: left;
+  margin: 0;
+  width: 25%;
+  float: left;
+}
+
+.subscription-change {
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding-right: 10px;
+  margin: 0;
+  width: 25%;
+  float: right;
+}
+
+.subscription-change a {
+  color: hsl(245, 75%, 52%);
+}
+
+.subscription-change a:hover {
+  text-decoration: none;
+}
+
+.proceed-to-payment {
+  color: hsl(225, 100%, 98%);
+  text-decoration: none;
+}
+
+.cancel-order {
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.cancel-order a {
+  color: darkgray;
+  text-decoration: none;
+}
+
+.cancel-order a:hover {
+  color: gray;
+}
+
+.icon-music {
+  padding: 10px;
+  float: left;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin: 0 auto;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  margin: 0 auto;
+}
+
+.btn {
+  display: block;
+  background: hsl(245, 75%, 52%);
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  box-shadow: 7px 7px 5px hsl(225, 100%, 94%);
+  font-family: "Red-Hat-Display", sans-serif;
+  color: #ffffff;
+  padding: 20px;
+  margin: 20px 50px 20px 50px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: hsl(245, 75%, 52%, 0.85);
+}
+
+@media screen and (max-width: 375px) {
+  body {
+    background-image: url("../images/pattern-background-desktop.svg");
+    background-repeat: repeat-x;
+    background-color: hsl(225, 100%, 94%);
+    margin: 0 auto;
+    font-family: "Red-Hat-Display", sans-serif;
+    text-align: center;
+  }
+}
