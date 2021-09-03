@@ -33,7 +33,7 @@ Users should be able to:
 
 ## My process
 
-- Congifure GitHub on my machine
+- Configure Github on my machine
 - Inspect all of the images and original source files
 - Mentally design the layout in my head and see how each section can be divided
 - Create each section in different background colors to visually see how lay things out
