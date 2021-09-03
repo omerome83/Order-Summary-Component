@@ -61,16 +61,16 @@ So as I got started, what stumped me first was figuring out how to round out jus
 }
 ```
 
-What I really need to get better at is to break up any project into smaller parts instead of trying to take on everything at once. Do one step at a time and then move on to the next and make changes if needed. I also learned that instead of getting frustrated when you're at a feature, take a break. If it means walk away, hydrate and/or get something to eat, play video games, do it. It's important to stay clear headed and try to create a working environment that promotes productivity. Listen to calming music if it helps and also make sure a good desk chair/stand desk!
+What I really need to get better at is to break up any project into smaller parts instead of trying to take on everything at once. Do one step at a time and then move on to the next and make changes if needed. I also learned that instead of getting frustrated when you're at a feature, take a break. If it means walk away, hydrate and/or get something to eat, play video games, do it. It's important to stay clear headed and try to create a working environment that promotes productivity. Listen to calming music if it helps and also make sure to get a good desk chair/stand desk!
 
 ### Continued development
 
-My next step is to continue to improve on my CSS skills and then learn more JavaScript. I have had experience with HTML/CSS/JavaScript years ago, but as we know, technology changes quickly! Once I gain experience and confidence, I look forward to tackling on React/Angular and then learn some back-end development languages like Node.JS and Python. But as I mentioned early, it's important to take small steps at a time and learn a little to not become overwhelmed.
+My next step is to continue to improve on my HTML/CSS skills and then learn more JavaScript. I have had experience with these years ago, but as we know, technology changes quickly! Once I gain more experience and confidence, I look forward to tackling on React/Angular and then learn some back-end development languages like Node.js and Python. But as I mentioned earlier, it's important to take small steps at a time and learn a little to not become overwhelmed.
 
 ### Useful resources
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/) - One of the best resources for anything web development, if not the best as they are extremely well documented..
-- [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Dr. Yu is an amazing instructor who step-by-step taught each lesson in a way that was easy to understand and still not feeling at all boring.
+- [MDN Web Docs](https://developer.mozilla.org/en-US/) - One of the best resources for all things web development as the site is extremely well documented..
+- [Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/) - Dr. Yu is an amazing instructor who step-by-step teaches each lesson in a way that was easy to understand and still not feeling at all boring.
 - [W3Schools](https://www.w3schools.com/) - Another very good resource for web development and even has an online HTML testing tool to try things out.
 
 ## Author
