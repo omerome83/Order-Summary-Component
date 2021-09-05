@@ -29,7 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://omerome83.github.io/Order-Summary-Component](https://omerome83.github.io/Order-Summary-Component)
+- Solution URL: [https://github.com/omerome83/Order-Summary-Component](https://github.com/omerome83/Order-Summary-Component)
+- Live URL: [https://omerome83.github.io/Order-Summary-Component](https://omerome83.github.io/Order-Summary-Component)
 
 ## My process
 
