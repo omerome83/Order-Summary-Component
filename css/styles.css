@@ -2,7 +2,7 @@ body {
   background-image: url("../images/pattern-background-desktop.svg");
   background-repeat: repeat-x;
   background-color: hsl(225, 100%, 94%);
-  margin: 0 auto 0 auto;
+  margin: 0 auto;
   font-family: "Red-Hat-Display", sans-serif;
   text-align: center;
 }
@@ -83,14 +83,11 @@ h1 {
 .cancel-order {
   font-size: 0.85rem;
   font-weight: 700;
-}
-
-.cancel-order a {
-  color: darkgray;
   text-decoration: none;
+  color: darkgray;
 }
 
-.cancel-order a:hover {
+.cancel-order:hover {
   color: gray;
 }
 
@@ -129,13 +126,13 @@ h1 {
   background: hsl(245, 75%, 52%, 0.85);
 }
 
-@media screen and (max-width: 375px) {
+@media (max-width: 375px) {
   body {
-    background-image: url("../images/pattern-background-desktop.svg");
+    background-image: url("../images/pattern-background-mobile.svg");
     background-repeat: repeat-x;
-    /* background-color: hsl(225, 100%, 94%);
+    background-color: hsl(225, 100%, 94%);
     margin: 0 auto;
     font-family: "Red-Hat-Display", sans-serif;
-    text-align: center; */
+    text-align: center;
   }
 }
